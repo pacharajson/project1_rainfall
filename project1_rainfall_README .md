@@ -29,19 +29,24 @@ To check outliers and correlation in each features
 
 ### Exploratory Data Analysis
 ![Total_rainfall_high_rainfall_month](https://github.com/pacharajson/project1_rainfall/blob/main/total_rainfall_high_rainfall_month.PNG)
+
 This figure shows that relationship between total rainfall and highest rainfall by month has positive relationship.
 It can estimate that the volume of rainfall which month is highest and frequency of rainfall. The lowest rainfall is June (drizzle) and it is going to heavier rainfall til December and then it is going to decrease on January.
 
 ![Number_Rainy_Days_Month](https://github.com/pacharajson/project1_rainfall/blob/main/Number_Rainy_Days_Month.PNG)
+
 Comparing with previous figure, it is not quite similar. This figure shows number of rainy days by month and calculating by mean of rainy days. The lowest number of rainy days is February which is approximately 8 days. In the opposite, the highest rainy days is November follow by December which are about 17.5 days.
 
 ![mean_rh_rainfall](https://github.com/pacharajson/project1_rainfall/blob/main/mean_rh_rainfall.PNG)
+
 This scatterplot shows that these two features have relationship and shows the curve when mean of relative humidity trend is going to increase by month. The total rainfall is increase as well. Plus, the density of month 12 is navy that means it can be related to previous figures that mentioned.
 
 ![no_rainy_days_mean_sunshine](https://github.com/pacharajson/project1_rainfall/blob/main/no_rainydays_mean_sunshine.PNG)
+
 Second, scatterplot shows mean of sunshine per hour compare with number of rainy days. If sunshine is going to decrease hours, it is highly possible to be rainy days. Moreover, it is related to number of rainfall figures which shows the highest rainfall on February which possible sunshine day (approximate mean of rainfall for 8 hours) and December has almost rainfall everyday.
 
 ![total_rainfall_rainy_days](https://github.com/pacharajson/project1_rainfall/blob/main/total_rainfall_rainy_days.PNG)
+
 Lastly, the correlation between total rainfall and number of rainy days have a positive relation. That's mean volume of rainfall is increasing and number of rainy days is going to increase as well. Plus, this figure compare with first two figures are related because December is the highest total rainfall and number of rainy days.
 
 
