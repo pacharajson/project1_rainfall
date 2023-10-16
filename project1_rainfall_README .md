@@ -20,13 +20,14 @@ Food delivery app has faced big issue about severe rainfall over years. This rep
 ## Brief Analysis
 
 ### Boxplot each features
-To check outliers and correlation in each features
 ![Boxplot Total Rainfall](https://github.com/pacharajson/project1_rainfall/blob/main/Boxplot%20Total%20Rainfall.png)
 ![Boxplot Number of Rainy Days](https://github.com/pacharajson/project1_rainfall/blob/main/Boxplot%20Number%20of%20Rainy%20Days.png)
 ![Boxplot Mean of Relative Humidity](https://github.com/pacharajson/project1_rainfall/blob/main/Boxplot%20Mean%20of%20Relative%20Humidity.png)
 ![Boxplot Mean of Sunshine per Hour](https://github.com/pacharajson/project1_rainfall/blob/main/Boxplot%20Mean%20of%20Sunshine%20per%20Hour.png)
+To check outliers and correlation in each features
 
-### More Analysis
+
+### Exploratory Data Analysis
 ![Total_rainfall_high_rainfall_month](https://github.com/pacharajson/project1_rainfall/blob/main/total_rainfall_high_rainfall_month.PNG)
 This figure shows that relationship between total rainfall and highest rainfall by month has positive relationship.
 It can estimate that the volume of rainfall which month is highest and frequency of rainfall. The lowest rainfall is June (drizzle) and it is going to heavier rainfall til December and then it is going to decrease on January.
