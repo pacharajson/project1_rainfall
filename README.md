@@ -40,7 +40,7 @@ It can estimate that the volume of rainfall which month is highest and frequency
 
 Comparing with previous figure, it is not quite similar. This figure shows number of rainy days by month and calculating by mean of rainy days. The lowest number of rainy days is February which is approximately 8 days. In the opposite, the highest rainy days is November follow by December which are about 17.5 days.
 
-![mean_rh_rainfall](mean_rh_rainfall.png)
+![mean_rh_rainfall](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/Mean%20Relative%20Humidity%20VS%20Total%20Rainfall.png)
 
 This scatterplot shows that these two features have relationship and shows the curve when mean of relative humidity trend is going to increase by month. The total rainfall is increase as well. Plus, the density of month 12 is navy that means it can be related to previous figures that mentioned.
 
@@ -48,7 +48,7 @@ This scatterplot shows that these two features have relationship and shows the c
 
 Second, scatterplot shows mean of sunshine per hour compare with number of rainy days. If sunshine is going to decrease hours, it is highly possible to be rainy days. Moreover, it is related to number of rainfall figures which shows the highest rainfall on February which possible sunshine day (approximate mean of rainfall for 8 hours) and December has almost rainfall everyday.
 
-![total_rainfall_rainy_days]((https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/total_rainfall_rainy_days.PNG))
+![total_rainfall_rainy_days](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/total_rainfall_rainy_days.PNG)
 
 Lastly, the correlation between total rainfall and number of rainy days have a positive relation. That's mean volume of rainfall is increasing and number of rainy days is going to increase as well. Plus, this figure compare with first two figures are related because December is the highest total rainfall and number of rainy days.
 
