@@ -20,31 +20,36 @@ Food delivery app has faced big issue about severe rainfall over years. This rep
 ## Brief Analysis
 
 ### Subplot all features
-![Subplot needed variables](Subplot needed variables.png)
+![Subplot needed variables]((https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/Subplot%20needed%20variables.png)
 This subplot just to show mean of various features at a time.
 
 ### Boxplot each features
 To check outliers and correlation in each features
-![Boxplot Total Rainfall](Boxplot Total Rainfall.png)
-![Boxplot Number of Rainy Days](Boxplot Number of Rainy Days.png)
-![Boxplot Mean of Relative Humidity](Boxplot Mean of Relative Humidity.png)
-![Boxplot Mean of Sunshine per Hour](Boxplot Mean of Sunshine per Hour.png)
+![Boxplot Total Rainfall](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/Boxplot%20Number%20of%20Rainy%20Days.png)
+![Boxplot Number of Rainy Days](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/Boxplot%20Number%20of%20Rainy%20Days.png)
+![Boxplot Mean of Relative Humidity](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/Boxplot%20Mean%20of%20Relative%20Humidity.png)
+![Boxplot Mean of Sunshine per Hour.png)](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/Boxplot%20Total%20Rainfall.png)
 
 ### More Analysis
-![Total_rainfall_high_rainfall_month](Total_rainfall_high_rainfall_month.png)
+![Total_rainfall_high_rainfall_month](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/total_rainfall_high_rainfall_month.PNG)
+
 This figure shows that relationship between total rainfall and highest rainfall by month has positive relationship.
 It can estimate that the volume of rainfall which month is highest and frequency of rainfall. The lowest rainfall is June (drizzle) and it is going to heavier rainfall til December and then it is going to decrease on January.
 
-![Number_Rainy_Days_Month](Number_Rainy_Days_Month.png)
+![Number_Rainy_Days_Month](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/number_of_rainy_days_by_month.png)
+
 Comparing with previous figure, it is not quite similar. This figure shows number of rainy days by month and calculating by mean of rainy days. The lowest number of rainy days is February which is approximately 8 days. In the opposite, the highest rainy days is November follow by December which are about 17.5 days.
 
 ![mean_rh_rainfall](mean_rh_rainfall.png)
+
 This scatterplot shows that these two features have relationship and shows the curve when mean of relative humidity trend is going to increase by month. The total rainfall is increase as well. Plus, the density of month 12 is navy that means it can be related to previous figures that mentioned.
 
-![no_rainy_days_mean_sunshine](no_rainy_days_mean_sunshine.png)
+![no_rainy_days_mean_sunshine](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/Mean%20Relative%20Humidity%20VS%20Total%20Rainfall.png)
+
 Second, scatterplot shows mean of sunshine per hour compare with number of rainy days. If sunshine is going to decrease hours, it is highly possible to be rainy days. Moreover, it is related to number of rainfall figures which shows the highest rainfall on February which possible sunshine day (approximate mean of rainfall for 8 hours) and December has almost rainfall everyday.
 
-![total_rainfall_rainy_days](total_rainfall_rainy_days.png)
+![total_rainfall_rainy_days]((https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/total_rainfall_rainy_days.PNG))
+
 Lastly, the correlation between total rainfall and number of rainy days have a positive relation. That's mean volume of rainfall is increasing and number of rainy days is going to increase as well. Plus, this figure compare with first two figures are related because December is the highest total rainfall and number of rainy days.
 
 
