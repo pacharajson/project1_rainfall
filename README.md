@@ -44,7 +44,7 @@ Comparing with previous figure, it is not quite similar. This figure shows numbe
 
 This scatterplot shows that these two features have relationship and shows the curve when mean of relative humidity trend is going to increase by month. The total rainfall is increase as well. Plus, the density of month 12 is navy that means it can be related to previous figures that mentioned.
 
-![no_rainy_days_mean_sunshine](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/Mean%20Relative%20Humidity%20VS%20Total%20Rainfall.png)
+![no_rainy_days_mean_sunshine](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/no_rainydays_mean_sunshine.PNG)
 
 Second, scatterplot shows mean of sunshine per hour compare with number of rainy days. If sunshine is going to decrease hours, it is highly possible to be rainy days. Moreover, it is related to number of rainfall figures which shows the highest rainfall on February which possible sunshine day (approximate mean of rainfall for 8 hours) and December has almost rainfall everyday.
 
