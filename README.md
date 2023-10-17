@@ -25,6 +25,7 @@ This subplot just to show mean of various features at a time.
 
 ### Boxplot each features
 To check outliers and correlation in each features
+
 ![Boxplot Total Rainfall](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/Boxplot%20Number%20of%20Rainy%20Days.png)
 ![Boxplot Number of Rainy Days](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/Boxplot%20Number%20of%20Rainy%20Days.png)
 ![Boxplot Mean of Relative Humidity](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/Boxplot%20Mean%20of%20Relative%20Humidity.png)
