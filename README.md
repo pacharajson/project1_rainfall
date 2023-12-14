@@ -20,7 +20,7 @@ Food delivery app has faced big issue about severe rainfall over years. This rep
 ## Brief Analysis
 
 ### Subplot all features
-![Subplot needed variables]((https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/Subplot%20needed%20variables.png)
+![Subplot needed variables](https://github.com/pacharajson/project1_rainfall/blob/main/visualized%20image/Subplot%20needed%20variables.png)
 This subplot just to show mean of various features at a time.
 
 ### Boxplot each features
